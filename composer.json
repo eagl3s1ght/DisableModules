@@ -1,0 +1,14 @@
+{
+  "name":"theextensionlab/disablemodules",
+  "type":"magento-module",
+  "description":"Disables all the modules I do not need",
+  "authors":[
+    {
+      "name": "James Anelay",
+      "email": "james@theextensionlab.com"
+    }
+  ],
+  "require":{
+    "magento-hackathon/magento-composer-installer":"*"
+  }
+}
