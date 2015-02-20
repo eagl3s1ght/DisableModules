@@ -28,9 +28,6 @@
         <Phoenix_Moneybookers>
             <active>false</active>
         </Phoenix_Moneybookers>
-        <Mage_ImportExport>
-            <active>false</active>
-        </Mage_ImportExport>
         <Mage_Bundle>
             <active>false</active>
         </Mage_Bundle>
@@ -40,6 +37,9 @@
         <Mage_Api2>
             <active>false</active>
         </Mage_Api2>
+        <Mage_Oauth>
+            <active>false</active>
+        </Mage_Oauth>
         <!--<Mage_Reports>-->
         <!--<active>false</active>-->
         <!--</Mage_Reports>-->
@@ -52,5 +52,14 @@
         <Mage_GoogleCheckout>
             <active>false</active>
         </Mage_GoogleCheckout>
+        <Mage_Rss>
+            <active>false</active>
+        </Mage_Rss>
+        <Mage_ConfigurableSwatches>
+            <active>false</active>
+        </Mage_ConfigurableSwatches>
+        <Mage_Captcha>
+            <active>false</active>
+        </Mage_Captcha>
     </modules>
 </config>
