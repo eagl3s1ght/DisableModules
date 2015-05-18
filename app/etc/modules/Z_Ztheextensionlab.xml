@@ -40,6 +40,9 @@
         <!--<Mage_Reports>-->
         <!--<active>false</active>-->
         <!--</Mage_Reports>-->
+        <Mage_Wishlist>
+            <active>false</active>
+        </Mage_Wishlist>
         <Mage_Sendfriend>
             <active>false</active>
         </Mage_Sendfriend>
