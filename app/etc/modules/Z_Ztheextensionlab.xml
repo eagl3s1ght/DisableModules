@@ -58,8 +58,5 @@
         <Mage_ConfigurableSwatches>
             <active>false</active>
         </Mage_ConfigurableSwatches>
-        <Mage_Captcha>
-            <active>false</active>
-        </Mage_Captcha>
     </modules>
 </config>
