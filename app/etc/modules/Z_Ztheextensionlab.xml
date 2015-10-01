@@ -16,9 +16,6 @@
         <Mage_Authorizenet>
             <active>false</active>
         </Mage_Authorizenet>
-        <Mage_GiftMessage>
-            <active>false</active>
-        </Mage_GiftMessage>
         <Mage_XmlConnect>
             <active>false</active>
         </Mage_XmlConnect>
