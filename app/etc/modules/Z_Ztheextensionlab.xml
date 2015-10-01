@@ -55,5 +55,17 @@
         <Mage_ConfigurableSwatches>
             <active>false</active>
         </Mage_ConfigurableSwatches>
+        <Ebizmarts_AbandonedCart>
+            <active>false</active>
+        </Ebizmarts_AbandonedCart>
+        <Ebizmarts_Autoresponder>
+            <active>false</active>
+        </Ebizmarts_Autoresponder>
+        <Ebizmarts_MageMonkey>
+            <active>false</active>
+        </Ebizmarts_MageMonkey>
+        <Ebizmarts_SweetMonkey>
+            <active>false</active>
+        </Ebizmarts_SweetMonkey>
     </modules>
 </config>
